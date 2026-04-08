@@ -12,10 +12,6 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=900&center=true&vCenter=true&width=520&lines=Build+%E2%86%92+Understand+%E2%86%92+Own;No+magic.+Only+mechanisms.;Systems+over+shortcuts.;Origin+over+imitation." alt="typing animation" />
-
-</div>
-
 ---
 
 ## Toolchain
@@ -41,13 +37,6 @@
 <img src="https://img.shields.io/badge/OCaml-0f172a?style=for-the-badge&logo=ocaml&logoColor=white" />
 <img src="https://img.shields.io/badge/Elixir-0f172a?style=for-the-badge&logo=elixir&logoColor=white" />
 
-</div>
-
----
-
-## Principle
-
-Understanding precedes ownership.
 
 ---
 
