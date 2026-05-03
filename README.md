@@ -70,7 +70,7 @@ Current work centers on cross referencing observational UAP datasets with physic
 
 ## Active Research
 
-| Domain | Status | Focus |
+| Domain | Status |
 |---|---:|---|
 | **UAP / UFO Phenomenology** | Ongoing |
 | **Anti Gravity & Gravitomagnetism** | Ongoing |
