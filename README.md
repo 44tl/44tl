@@ -65,6 +65,8 @@ My current work centers on cross-referencing observational UAP datasets with phy
 <img src="https://img.shields.io/badge/Elixir-0f172a?style=for-the-badge&logo=elixir&logoColor=white" />
 <img src="https://img.shields.io/badge/Brainfuck-111827?style=for-the-badge&logo=codecademy&logoColor=white" />
 
+<br><br>
+
 </div>
 
 ---
