@@ -18,6 +18,8 @@
 
 ---
 
+<div align="center">
+
 ## About
 
 Independent researcher focused on anomalous aerospace phenomena, exotic propulsion physics, and the theoretical boundaries of gravitational engineering. 
@@ -28,8 +30,6 @@ My current work centers on cross-referencing observational UAP datasets with phy
 
 ## Research Interests
 
-<div align="center">
-
 <img src="https://img.shields.io/badge/UAP%20%2F%20UFO%20Phenomenology-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Gravitomagnetism-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Exotic%20Propulsion-111827?style=for-the-badge" />
@@ -39,13 +39,9 @@ My current work centers on cross-referencing observational UAP datasets with phy
 <img src="https://img.shields.io/badge/String%20Theory-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Multiverse%20Cosmology-111827?style=for-the-badge" />
 
-</div>
-
 ---
 
 ## Computational Methods & Tools
-
-<div align="center">
 
 **Languages & Frameworks**<br>
 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
@@ -64,8 +60,6 @@ My current work centers on cross-referencing observational UAP datasets with phy
 <img src="https://img.shields.io/badge/OCaml-0f172a?style=for-the-badge&logo=ocaml&logoColor=white" />
 <img src="https://img.shields.io/badge/Elixir-0f172a?style=for-the-badge&logo=elixir&logoColor=white" />
 <img src="https://img.shields.io/badge/Brainfuck-111827?style=for-the-badge&logo=codecademy&logoColor=white" />
-
-<br><br>
 
 </div>
 
