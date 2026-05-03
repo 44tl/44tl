@@ -16,6 +16,14 @@
 
 ---
 
+## About
+
+Independent researcher focused on anomalous aerospace phenomena, exotic propulsion physics, and the theoretical boundaries of gravitational engineering. 
+
+My current work centers on cross-referencing observational UAP datasets with physics-based models, open-source tooling, reproducible analysis pipelines, and structured skepticism. 
+
+---
+
 ## Research Interests
 
 <div align="center">
@@ -37,6 +45,7 @@
 
 <div align="center">
 
+**Languages & Frameworks**<br>
 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white" />
@@ -44,10 +53,7 @@
 <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Vue-111827?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Brainfuck-111827?style=for-the-badge&logo=codecademy&logoColor=white" />
-
-<br><br>
-
+<br>
 <img src="https://img.shields.io/badge/Assembly-0f172a?style=for-the-badge&logo=assemblyscript&logoColor=white" />
 <img src="https://img.shields.io/badge/Zig-0f172a?style=for-the-badge&logo=zig&logoColor=white" />
 <img src="https://img.shields.io/badge/Haskell-0f172a?style=for-the-badge&logo=haskell&logoColor=white" />
@@ -55,26 +61,25 @@
 <img src="https://img.shields.io/badge/Lua-0f172a?style=for-the-badge&logo=lua&logoColor=white" />
 <img src="https://img.shields.io/badge/OCaml-0f172a?style=for-the-badge&logo=ocaml&logoColor=white" />
 <img src="https://img.shields.io/badge/Elixir-0f172a?style=for-the-badge&logo=elixir&logoColor=white" />
+<img src="https://img.shields.io/badge/Brainfuck-111827?style=for-the-badge&logo=codecademy&logoColor=white" />
+
+<br><br>
+
+**Systems & Environments**<br>
+<img src="https://img.shields.io/badge/Arch_Linux-111827?style=for-the-badge&logo=arch-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_Optimization-111827?style=for-the-badge&logo=windows&logoColor=white" />
 
 </div>
-
----
-
-## About
-
-Independent researcher focused on anomalous aerospace phenomena exotic propulsion physics and the theoretical boundaries of gravitational engineering
-
-Current work centers on cross referencing observational UAP datasets with physics based models open source tooling reproducible analysis pipelines and structured skepticism
 
 ---
 
 ## Active Research
 
 | Domain | Status |
-|---|---|
+| :--- | :---: |
 | **UAP / UFO Phenomenology** | Ongoing |
-| **Anti Gravity & Gravitomagnetism** | Ongoing |
-| **Zero Point Energy** | Ongoing |
+| **Anti-Gravity & Gravitomagnetism** | Ongoing |
+| **Zero-Point Energy** | Ongoing |
 | **Wormhole Metrics & Traversability** | Ongoing |
 | **String Theory Compactifications** | Ongoing |
 | **Extraterrestrial Hypothesis** | Ongoing |
@@ -91,7 +96,7 @@ Current work centers on cross referencing observational UAP datasets with physic
 
 ## Collaboration
 
-Open to correspondence with physicists aerospace engineers independent researchers and accredited journalists working on UAP disclosure exotic propulsion or related theoretical physics
+Open to correspondence with physicists, aerospace engineers, independent researchers, and accredited journalists working on UAP disclosure, exotic propulsion, or related theoretical physics.
 
 **Contact:** [wireless0@proton.me](mailto:wireless0@proton.me)  
-**Discord:** `@ciuqe`
+**Discord:** `ciuqe`
