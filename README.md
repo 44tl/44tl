@@ -10,7 +10,9 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=C4A7E7&center=true&vCenter=true&width=760&lines=Independent+Researcher;UAP+%2F+UFO+Phenomenology;Exotic+Propulsion+%26+Theoretical+Physics;Open+Data+%E2%80%A2+Reproducible+Analysis" alt="typing intro" />
+> **Independent Researcher**
+> 
+> Investigating UAP / UFO Phenomenology, Exotic Propulsion, and Theoretical Physics through Open Data and Reproducible Analysis.
 
 </div>
 
