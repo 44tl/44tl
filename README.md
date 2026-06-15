@@ -12,17 +12,6 @@
 
 ---
 
-<img src="https://img.shields.io/badge/UAP%20%2F%20UFO%20Phenomenology-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gravitomagnetism-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Exotic%20Propulsion-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Zero--Point%20Energy-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Quantum%20Gravity-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Wormhole%20Metrics-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/String%20Theory-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Multiverse%20Cosmology-111827?style=for-the-badge" />
-
----
-
 **Languages & Frameworks**<br>
 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust&logoColor=white" />
