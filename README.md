@@ -38,12 +38,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=44tl&bg_color=0f0f14&color=c4a7e7&line=9ccfd8&point=ebbcba&area=true&hide_border=true&custom_title=44tl's%20Contribution%20Graph" alt="activity graph" />
 </div>
-
----
-
-## Collaboration
-
-Open to correspondence with physicists, aerospace engineers, independent researchers, and accredited journalists working on UAP disclosure, exotic propulsion, or related theoretical physics.
-
-**Contact:** [wireless0@proton.me](mailto:wireless0@proton.me)  
-**Discord:** `ciuqe`
