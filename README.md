@@ -10,25 +10,7 @@
 
 <br><br>
 
-> **Independent Researcher**
-> 
-> Investigating UAP / UFO Phenomenology, Exotic Propulsion, and Theoretical Physics through Open Data and Reproducible Analysis.
-
-</div>
-
 ---
-
-<div align="center">
-
-## About
-
-Independent researcher focused on anomalous aerospace phenomena, exotic propulsion physics, and the theoretical boundaries of gravitational engineering. 
-
-My current work centers on cross-referencing observational UAP datasets with physics-based models, open-source tooling, reproducible analysis pipelines, and structured skepticism. 
-
----
-
-## Research Interests
 
 <img src="https://img.shields.io/badge/UAP%20%2F%20UFO%20Phenomenology-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Gravitomagnetism-111827?style=for-the-badge" />
@@ -40,8 +22,6 @@ My current work centers on cross-referencing observational UAP datasets with phy
 <img src="https://img.shields.io/badge/Multiverse%20Cosmology-111827?style=for-the-badge" />
 
 ---
-
-## Computational Methods & Tools
 
 **Languages & Frameworks**<br>
 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
@@ -62,19 +42,6 @@ My current work centers on cross-referencing observational UAP datasets with phy
 <img src="https://img.shields.io/badge/Brainfuck-111827?style=for-the-badge&logo=codecademy&logoColor=white" />
 
 </div>
-
----
-
-## Active Research
-
-| Domain | Status |
-| :--- | :---: |
-| **UAP / UFO Phenomenology** | Ongoing |
-| **Anti-Gravity & Gravitomagnetism** | Ongoing |
-| **Zero-Point Energy** | Ongoing |
-| **Wormhole Metrics & Traversability** | Ongoing |
-| **String Theory Compactifications** | Ongoing |
-| **Extraterrestrial Hypothesis** | Ongoing |
 
 ---
 
