@@ -4,6 +4,8 @@
 
 researcher, writer, explorer
 
+<img width="3840" height="2160" alt="eskrid" src="https://github.com/user-attachments/assets/6d062795-709b-47a9-b443-b06fdffce771" />
+
 </div>
 
 ---
