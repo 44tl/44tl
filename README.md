@@ -2,13 +2,13 @@
 
 # eskrid
 
-researcher, writer, explorer
+**researcher, writer, explorer**
 
 <img width="3840" height="2160" alt="eskrid" src="https://github.com/user-attachments/assets/6d062795-709b-47a9-b443-b06fdffce771" />
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=44tl&label=Profile%20Views&color=111827&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=44tl&label=PROFILE+VIEWS&color=111827&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -28,7 +28,7 @@ I code in C, Rust, C++, and TypeScript, and I write about whatever I'm researchi
 <tr>
 <td valign="top" width="25%">
 
-**Cosmology**
+### Cosmology
 
 * Parallel universes
 * Multiverse
@@ -36,9 +36,10 @@ I code in C, Rust, C++, and TypeScript, and I write about whatever I'm researchi
 * Butterfly effect
 
 </td>
+
 <td valign="top" width="25%">
 
-**Phenomena**
+### Phenomena
 
 * UFOs
 * Extraterrestrial life
@@ -46,9 +47,10 @@ I code in C, Rust, C++, and TypeScript, and I write about whatever I'm researchi
 * Magic
 
 </td>
+
 <td valign="top" width="25%">
 
-**Consciousness**
+### Consciousness
 
 * Astral realm
 * Ego death
@@ -56,9 +58,10 @@ I code in C, Rust, C++, and TypeScript, and I write about whatever I'm researchi
 * Physics
 
 </td>
+
 <td valign="top" width="25%">
 
-**Misc**
+### Misc
 
 * Water travel
 * Rings
@@ -74,33 +77,39 @@ I code in C, Rust, C++, and TypeScript, and I write about whatever I'm researchi
 ## Stack
 
 <div align="center">
+
 <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Tauri-111827?style=for-the-badge&logo=tauri&logoColor=white" />
+
 </div>
 
 I mostly reach for C, Rust, and C++ when something needs to be fast or close to the metal, and TypeScript when I'm building something people will actually click around in.
 
 | Language   | What I use it for                                                 |
 | ---------- | ----------------------------------------------------------------- |
-| C          | Low level systems work, performance critical code, embedded stuff |
+| C          | Low-level systems work, performance-critical code, embedded stuff |
 | Rust       | Systems programming where I still want memory safety              |
 | C++        | Bigger, messier systems, old and new codebases alike              |
-| TypeScript | Web apps, tooling, interfaces, anything type safe                 |
+| TypeScript | Web apps, tooling, interfaces, anything type-safe                 |
 | Python     | Scripting, automation, quick research tools                       |
-| Tauri      | Small desktop apps built with web tech                            |
+| Tauri      | Small desktop apps built with web technologies                    |
 
 ---
 
 ## AI usage
 
-I use AI to help format my research notes into markdown. Sometimes I also use it when I hit an error in code I don't understand, just for a quick fix, nothing more.
+I use AI to help format my research notes into Markdown. Sometimes I also use it when I hit an error in code I don't understand, mostly for a quick fix.
+
+---
 
 ## Tooling
 
-My main OS is Linux, running a custom Arch Linux setup with the CachyOS kernel. I also use a pile of VMs depending on what I'm doing that day.
+My main OS is Linux, running a custom Arch Linux setup with the CachyOS kernel.
 
-I write code in Zed or Vim, both fast and keyboard driven, and I write everything else as essays about technology, consciousness, and whatever unexplained thing I'm currently stuck on.
+I also use a pile of virtual machines depending on what I'm researching or building.
+
+I write code in Zed or Vim, both fast and keyboard-driven, and I write everything else as essays about technology, consciousness, and whatever unexplained thing I'm currently stuck on.
