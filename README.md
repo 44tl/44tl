@@ -6,6 +6,10 @@ researcher, writer, explorer
 
 <img width="3840" height="2160" alt="eskrid" src="https://github.com/user-attachments/assets/6d062795-709b-47a9-b443-b06fdffce771" />
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=44tl&label=Profile%20Views&color=111827&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
 ---
@@ -25,37 +29,41 @@ I code in C, Rust, C++, and TypeScript, and I write about whatever I'm researchi
 <td valign="top" width="25%">
 
 **Cosmology**
-- Parallel universes
-- Multiverse
-- String theory
-- Butterfly effect
+
+* Parallel universes
+* Multiverse
+* String theory
+* Butterfly effect
 
 </td>
 <td valign="top" width="25%">
 
 **Phenomena**
-- UFOs
-- Extraterrestrial life
-- Supernatural life
-- Magic
+
+* UFOs
+* Extraterrestrial life
+* Supernatural life
+* Magic
 
 </td>
 <td valign="top" width="25%">
 
 **Consciousness**
-- Astral realm
-- Ego death
-- Laws of nature
-- Physics
+
+* Astral realm
+* Ego death
+* Laws of nature
+* Physics
 
 </td>
 <td valign="top" width="25%">
 
 **Misc**
-- Water travel
-- Rings
-- Writing
-- Exploration
+
+* Water travel
+* Rings
+* Writing
+* Exploration
 
 </td>
 </tr>
@@ -76,14 +84,14 @@ I code in C, Rust, C++, and TypeScript, and I write about whatever I'm researchi
 
 I mostly reach for C, Rust, and C++ when something needs to be fast or close to the metal, and TypeScript when I'm building something people will actually click around in.
 
-| Language | What I use it for |
-|---|---|
-| C | Low level systems work, performance critical code, embedded stuff |
-| Rust | Systems programming where I still want memory safety |
-| C++ | Bigger, messier systems, old and new codebases alike |
-| TypeScript | Web apps, tooling, interfaces, anything type safe |
-| Python | Scripting, automation, quick research tools |
-| Tauri | Small desktop apps built with web tech |
+| Language   | What I use it for                                                 |
+| ---------- | ----------------------------------------------------------------- |
+| C          | Low level systems work, performance critical code, embedded stuff |
+| Rust       | Systems programming where I still want memory safety              |
+| C++        | Bigger, messier systems, old and new codebases alike              |
+| TypeScript | Web apps, tooling, interfaces, anything type safe                 |
+| Python     | Scripting, automation, quick research tools                       |
+| Tauri      | Small desktop apps built with web tech                            |
 
 ---
 
@@ -93,4 +101,6 @@ I use AI to help format my research notes into markdown. Sometimes I also use it
 
 ## Tooling
 
-I run Linux, Windows, and a pile of VMs depending on what I'm doing that day. I write code in Zed or Vim, both fast and keyboard driven, and I write everything else as essays about technology, consciousness, and whatever unexplained thing I'm currently stuck on.
+My main OS is Linux, running a custom Arch Linux setup with the CachyOS kernel. I also use a pile of VMs depending on what I'm doing that day.
+
+I write code in Zed or Vim, both fast and keyboard driven, and I write everything else as essays about technology, consciousness, and whatever unexplained thing I'm currently stuck on.
