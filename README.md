@@ -165,9 +165,6 @@ I write about technology, consciousness, physics, unexplained phenomena, and wha
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=44tl&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=44tl&layout=compact&hide_border=true&theme=transparent" height="170">
-
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=44tl&hide_border=true&theme=transparent" alt="GitHub streak">
