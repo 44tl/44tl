@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=44tl&label=PROFILE+VIEWS&color=111827&style=for-the-badge" alt="Profile views" />
+<img src="https://u8views.com/api/v1/github/profiles/176505381/views/day-week-month-total-count.svg" alt="profile views" />
 
 </div>
 
