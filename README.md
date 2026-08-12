@@ -6,8 +6,6 @@
 
 <br>
 
-<img width="100%" src="https://github.com/user-attachments/assets/6d062795-709b-47a9-b443-b06fdffce771" alt="eskrid">
-
 <br><br>
 
 <img src="https://u8views.com/api/v1/github/profiles/176505381/views/day-week-month-total-count.svg" alt="profile views">
