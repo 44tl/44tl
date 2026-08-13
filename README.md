@@ -4,8 +4,6 @@
 
 **researcher · writer · explorer**
 
-<br>
-
 <br><br>
 
 <img src="https://u8views.com/api/v1/github/profiles/176505381/views/day-week-month-total-count.svg" alt="profile views">
@@ -139,23 +137,6 @@ I sometimes use it to turn messy research notes into readable Markdown, or to he
 Most of what I work on starts as a question. Then it becomes notes. Then too many notes. Then, eventually, an essay.
 
 I write about technology, consciousness, physics, unexplained phenomena, and whatever else has gotten stuck in my head that week.
-
----
-
-## Current interests
-
-```text
-01  consciousness
-02  physics
-03  parallel universes
-04  extraterrestrial life
-05  unexplained phenomena
-06  systems programming
-07  Linux
-08  artificial intelligence
-09  exploration
-10  whatever I find next
-```
 
 ---
 
