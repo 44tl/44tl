@@ -4,6 +4,10 @@
 
 **researcher · writer · explorer**
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/1d/9b/48/1d9b480157b0b441915e7d2fec7fbb92.gif" width="500">
+</p>
+
 <br><br>
 
 <img src="https://u8views.com/api/v1/github/profiles/176505381/views/day-week-month-total-count.svg" alt="profile views">
