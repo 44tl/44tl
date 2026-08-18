@@ -2,7 +2,7 @@
 
 # eskrid
 
-**researcher · writer · explorer**
+**researcher, writer, explorer**
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/1d/9b/48/1d9b480157b0b441915e7d2fec7fbb92.gif" width="500">
@@ -14,7 +14,7 @@
 
 <br><br>
 
-[research](#research) · [stack](#stack) · [linux](#linux) · [writing](#writing)
+[research](#research) | [stack](#stack) | [linux](#linux) | [writing](#writing)
 
 </div>
 
@@ -22,11 +22,11 @@
 
 ## About
 
-I'm drawn to questions nobody has fully answered yet: UFOs, extraterrestrial life, physics, parallel universes, consciousness, the astral realm, string theory, strange phenomena, the stuff most people file under "probably nothing."
+I'm drawn to questions nobody has fully answered yet. UFOs, extraterrestrial life, physics, parallel universes, consciousness, the astral realm, string theory, strange phenomena, the kind of things most people file under "probably nothing."
 
-I research, write, experiment, and sometimes get stuck on a subject for way longer than planned.
+I research, write, experiment, and sometimes get stuck on a subject for far longer than I planned.
 
-I also build software, mostly in C, C++, Rust, TypeScript, and Python, depending on what I'm making. Some projects are serious, some are experiments, some exist purely because I wanted to see if they'd work.
+I also build software, mostly in C, C++, Rust, TypeScript, and Python, depending on what I'm making. Some projects are serious, some are just experiments, and some exist purely because I wanted to see if they'd work.
 
 ---
 
@@ -90,20 +90,18 @@ I also build software, mostly in C, C++, Rust, TypeScript, and Python, depending
 ## Stack
 
 <div align="center">
-
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=c,cpp,rust,ts,python,html,css,js,tauri,git,github,linux,bash,vim,zed&theme=dark" alt="Tech stack">
 </a>
-
 </div>
 
 <br>
 
 | | |
 |---|---|
-| **C** | Low-level systems, performance, embedded work |
+| **C** | Low level systems, performance, embedded work |
 | **C++** | Systems and native applications |
-| **Rust** | Systems programming, performance-focused software |
+| **Rust** | Systems programming, performance focused software |
 | **TypeScript** | Web applications, tooling, interfaces |
 | **Python** | Research tools, automation, quick experiments |
 | **Tauri** | Lightweight desktop applications |
@@ -116,12 +114,10 @@ I pick whatever fits the problem instead of forcing everything into one language
 ## Linux
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
 <img src="https://img.shields.io/badge/CachyOS_Kernel-111111?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Zed-111111?style=for-the-badge&logo=zedindustries&logoColor=white">
 <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white">
-
 </div>
 
 My daily driver is a custom Arch Linux setup running the CachyOS kernel. I keep it lean and under my control, no pile of software I never touch. Just a terminal, a good editor, and whatever the current project needs. I switch between Zed and Vim depending on the mood.
@@ -147,9 +143,6 @@ I write about technology, consciousness, physics, unexplained phenomena, and wha
 ## GitHub
 
 <div align="center">
-
 <br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=44tl&hide_border=true&theme=transparent" alt="GitHub streak">
-
 </div>
